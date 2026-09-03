@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5C8A,100:1F2A44&height=200&section=header&text=Mohammad%20Imran%20Uddin&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5C8A,100:1F2A44&height=200&section=header&text=Mohammad%20Imran%20Uddin&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
 <h3 align="center">
@@ -24,14 +24,14 @@
 
 ## 👋 Hi, I'm Imran
 
-- 🎓 **B.Sc. in Computer Science & Engineering** — BRAC University, Dhaka *(Graduating 2026)*
-- 📚 Currently completing **Programming Hero — AI-Driven Full Stack Web Engineering (Batch 14)**
-- 🌱 I'm exploring **Next.js, TypeScript, and AI-assisted development workflows**
-- 🛠️ Building production-style full stack projects using the **MERN stack**
-- 🐍 Academically trained in **Python** through university coursework (DSA, OOP)
+- 🎓 **B.Sc. in Computer Science & Engineering** — BRAC University, Dhaka
+- 🛠️ Building full stack web applications using the **MERN stack**
+- 🌱 Currently deepening skills in **Next.js, TypeScript & REST API development**
+- 🐍 Academically trained in **Python** — DSA, OOP, problem solving
 - 💬 Ask me about **React, Node.js, MongoDB, Express, JavaScript**
+- 🤝 Open to collaborating on **beginner-friendly and full stack projects**
 - 🌍 Based in **Dhaka, Bangladesh**
-- 📄 Check out my **[Resume](#)** ← *(update link)*
+- 📄 **Resume** — *coming soon*
 
 ---
 
@@ -89,15 +89,13 @@
 
 ## 📌 FEATURED PROJECTS
 
-> Projects are pinned below. Each has a live demo + full README.
+> Projects are pinned below — each with a live demo and full README.
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🛒 **[Project Name](#)** | Full Stack E-Commerce Platform with auth, cart, and Stripe checkout | React, Node, MongoDB, Stripe |
-| 📋 **[Project Name](#)** | Project Management App with RBAC and real-time updates | Next.js, Express, BetterAuth |
-| 🎓 **[Project Name](#)** | Learning Management System with course enrollment and payment | MERN, SSLCommerz, TypeScript |
-
-> ⚠️ Replace with your actual projects once built. Keep this table honest — one real project beats five placeholder rows.
+| 🛒 *Coming Soon* | Full Stack E-Commerce with auth, cart & Stripe checkout | React, Node, MongoDB, Stripe |
+| 📋 *Coming Soon* | Project Management App with RBAC | Next.js, Express, BetterAuth |
+| 🎓 *Coming Soon* | Learning Management System with payment | MERN, SSLCommerz, TypeScript |
 
 ---
 
@@ -112,7 +110,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdimranuddin&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mdimranuddin&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
@@ -123,23 +121,22 @@
 
 ---
 
-## 🎓 EDUCATION & TRAINING
+## 🎓 EDUCATION
 
 | | |
 |---|---|
-| 🏫 **B.Sc. CSE** | BRAC University, Dhaka — *Expected 2026* |
-| 📘 **Relevant Courses** | DSA, OOP, DBMS, Software Engineering, Computer Networks, Numerical Methods |
-| 🏆 **Certification** | AI-Driven Full Stack Web Engineering — Programming Hero, Batch 14 |
+| 🏫 **B.Sc. in Computer Science & Engineering** | BRAC University, Dhaka |
+| 📘 **Relevant Courses** | DSA, OOP, DBMS, Software Engineering, Computer Networks, Numerical Methods, Engineering Mathematics |
 
 ---
 
 ## 💡 CURRENTLY WORKING ON
 
 ```text
-🔥  Batch 14  ████████████░░░░  In Progress
-📂  Projects  ████░░░░░░░░░░░░  Building
-🌐  Portfolio ████████░░░░░░░░  Designing
-📈  DSA       ██████░░░░░░░░░░  Practicing
+🔥  Full Stack Projects  ████████░░░░░░░░  Building
+🌱  Next.js & TypeScript ██████░░░░░░░░░░  Learning
+🌐  Portfolio            ████████░░░░░░░░  Designing
+📈  DSA & Problem Solving██████░░░░░░░░░░  Practicing
 ```
 
 ---
