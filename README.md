@@ -93,6 +93,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| 🍯 [AI-Adaptive Honeypot](https://github.com/mdimranuddin/ai-adaptive-honeypot) | AI-powered honeypot that analyzes attacker behavior and predicts next actions using LLM-based classification | Python, Docker, Groq API, Pydantic |
 | 🛒 *Coming Soon* | Full Stack E-Commerce with auth, cart & Stripe checkout | React, Node, MongoDB, Stripe |
 | 📋 *Coming Soon* | Project Management App with RBAC | Next.js, Express, BetterAuth |
 | 🎓 *Coming Soon* | Learning Management System with payment | MERN, SSLCommerz, TypeScript |
