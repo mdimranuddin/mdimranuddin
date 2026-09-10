@@ -114,12 +114,6 @@
   <img src="https://streak-stats.demolab.com?user=mdimranuddin&theme=tokyonight&hide_border=true" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdimranuddin&bg_color=1a1b27&color=2E5C8A&line=2E5C8A&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
 ---
 
 ## 🎓 EDUCATION
