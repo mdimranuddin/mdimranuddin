@@ -104,9 +104,9 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdimranuddin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=mdimranuddin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdimranuddin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdimranuddin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
