@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohammad--imran/" target="_blank">
+  <a href="https://linkedin.com/in/mohammadimranuddin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -94,9 +94,9 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🍯 [AI-Adaptive Honeypot](https://github.com/mdimranuddin/ai-adaptive-honeypot) | AI-powered honeypot that analyzes attacker behavior and predicts next actions using LLM-based classification | Python, Docker, Groq API, Pydantic |
-| 🛒 *Coming Soon* | Full Stack E-Commerce with auth, cart & Stripe checkout | React, Node, MongoDB, Stripe |
-| 📋 *Coming Soon* | Project Management App with RBAC | Next.js, Express, BetterAuth |
-| 🎓 *Coming Soon* | Learning Management System with payment | MERN, SSLCommerz, TypeScript |
+| 🛒 [Bazar Dor](https://github.com/mdimranuddin/bazar-dor) | Bangladeshi daily grocery price tracker with secure authentication and live Vercel deployment | Next.js, TypeScript, MongoDB, BetterAuth |
+| 🏋️ [Fit Log](https://github.com/mdimranuddin/B14-A6-Fit-Log) | 	Dark-themed gym companion app for tracking workouts with a responsive UI | Next.js, React, JavaScript |
+| 🧰 [Dev Stack Builder](https://github.com/mdimranuddin/dev-stack-builder) | Web app to explore, compare and build your ideal developer technology stack | React, TypeScript, Vite, Tailwind CSS |
 
 ---
 
