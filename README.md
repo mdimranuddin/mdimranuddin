@@ -31,7 +31,7 @@
 - 💬 Ask me about **React, Node.js, MongoDB, Express, JavaScript**
 - 🤝 Open to collaborating on **beginner-friendly and full stack projects**
 - 🌍 Based in **Dhaka, Bangladesh**
-- 📄 **Resume** — *coming soon*
+- 🌐 **[My Portfolio](https://mdimranuddin.vercel.app)** — Built with React, Vite and Tailwind CSS
 
 ---
 
